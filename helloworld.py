@@ -20,7 +20,6 @@ print('I think it\'s a good way to ask "what\'s up man ?"')        # \ will let 
 anotherspilt = """This is another split
 with diff
 lines"""
-print(anotherspilt)
 
 
 
